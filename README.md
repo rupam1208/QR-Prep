@@ -1,13 +1,13 @@
-# Time Value of Money Calculator 🕒
+# Derrivative Payoffs (Simplest) 🕒
 
-This project implements key financial formulas for computing Present Value (PV), Future Value (FV), and compound interest. It supports:
+This project implements basic financial formulas for computing payoffs in different derrivative trades e.g. long/short forward contract, long/short option call/put etc:
 
-- Simple & continuous compounding
-- Variable interest rates
+- Payoff in forward contract
+- Payoffs in option trades
 - Interactive inputs via Jupyter widgets
 
 ## Folder Structure
-- `tvm_calculator.ipynb`: Main analysis and interactive plots
+- `payoff.ipynb`: Main analysis and interactive plots
 - `utils/finance_tools.py`: Modularized reusable functions
 
 ## Requirements
