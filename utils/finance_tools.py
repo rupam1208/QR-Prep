@@ -22,6 +22,8 @@ def opn_pay_long_put(S,K,P): # Same as above but for the selling right
 def opn_pay_shot_put(S,K,P):
     return P-np.max(K-S,0);
 
+####################################
+
 
 
 print("Warning ! : Define the functions first ")
