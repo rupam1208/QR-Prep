@@ -1,0 +1,6 @@
+[submodule "Month-1/week-1"]
+	path = Month-1/week-1
+	url = git@github.com:rupam1208/week-1.git
+[submodule "Month-1/week-2"]
+	path = Month-1/week-2
+	url = git@github.com:rupam1208/week-1.git
