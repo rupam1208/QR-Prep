@@ -1,4 +1,8 @@
-# Derrivative Payoffs (Simplest)
+
+
+# QR-Prep: From black-holes to black-scholes
+
+> > > > > > > 1019016ae1c86b6bb90abdd436febd6d68eceb59
 
 This project implements basic financial formulas for computing payoffs in different derrivative trades e.g. long/short forward contract, long/short option call/put etc:
 
