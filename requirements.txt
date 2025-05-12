@@ -1,4 +1,0 @@
-## Packages required
-numpy
-matpltlib
-scipy
