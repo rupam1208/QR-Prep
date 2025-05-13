@@ -1,4 +1,8 @@
-# QR-Prep: From black-holes to black-scholes
+# From QGP to QR: A High-Energy Leap into High-Stakes Finance
+
+*The trajectory of a high-energy phenomenologist into the world of quant research*
+
+
 
 This project implements basic financial formulas for computing payoffs in different derrivative trades e.g. long/short forward contract, long/short option call/put etc:
 
