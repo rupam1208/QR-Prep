@@ -2,22 +2,19 @@
 
 *The trajectory of a high-energy phenomenologist into the world of quant research*
 
+This repository contains a structured 12-month plan for preparing for Quant Researcher roles. It follows a Phase-based layout and covers theory, Python projects, and probability concepts.
 
+## Structure
 
-This project implements basic financial formulas for computing payoffs in different derrivative trades e.g. long/short forward contract, long/short option call/put etc:
+- `phase1_foundations/`: Forwards, options, arbitrage, hedging
+- `phase2_models/`: Pricing models, Greeks, BSM
+- `phase3_projects/`: Monte Carlo, PCA, strategy backtesting
+- `phase4_interviews/`: Puzzles, mock coding rounds
+- `notes/`: Cross-book unified notes and notation
+- `utils/`: Reusable Python modules for plotting/pricing
 
-- Payoff in forward contract
-- Payoffs in option trades
-- Plot functions for payoffs in different strategies
-- Interactive inputs via Jupyter widgets
+## Getting Started
 
-## Folder Structure
-
-- `payoff.ipynb`: Main analysis and interactive plots, the plots are also implemented through the function plot_payoff()
-- `utils/finance_tools.py`: Modularized reusable functions for payoffs for derrivative contracts
-
-## Requirements
-
-```bash
-pip install numpy matplotlib
-```
+1. Install requirements
+2. Browse notebooks by phase
+3. Use `notes/` as a conceptual anchor
